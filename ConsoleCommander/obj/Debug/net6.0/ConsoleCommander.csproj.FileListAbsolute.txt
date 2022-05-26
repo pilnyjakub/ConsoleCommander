@@ -1,0 +1,15 @@
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\bin\Debug\net6.0\ConsoleCommander.exe
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\bin\Debug\net6.0\ConsoleCommander.deps.json
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\bin\Debug\net6.0\ConsoleCommander.runtimeconfig.json
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\bin\Debug\net6.0\ConsoleCommander.dll
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\bin\Debug\net6.0\ConsoleCommander.pdb
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ConsoleCommander.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ConsoleCommander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ConsoleCommander.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ConsoleCommander.AssemblyInfo.cs
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ConsoleCommander.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ConsoleCommander.dll
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\refint\ConsoleCommander.dll
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ConsoleCommander.pdb
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ConsoleCommander.genruntimeconfig.cache
+C:\Users\jakub\source\repos\ConsoleCommander\ConsoleCommander\obj\Debug\net6.0\ref\ConsoleCommander.dll
